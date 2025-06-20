@@ -1,0 +1,38 @@
+h2{
+    color: white;
+    background-color: brown;
+    margin: 40px;
+}
+body{
+    background-image: url("https://media.istockphoto.com/id/1148908658/photo/beautiful-starry-night-man-silhouette-with-a-camera-looking-at-the-milky-way-galaxy.jpg?s=612x612&w=0&k=20&c=lYVxqUrUN1nES231pZ6_T2Umz7L0l3Ks_74Q-Ks6Joo=");
+}
+.p1{
+    color: white;
+    background-color: orange;
+    border: 1px solid red;
+    margin: 40px;
+    padding: 20px;
+}
+.p2{
+    color: red;
+    background-color: yellow;
+    border: 1px dashed red;
+    border-radius: 15px;
+    margin: 40px;
+    padding: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.p3{
+    color:blue;
+    background-color: rgb(255, 165, 0, 0.7);
+    border-top: ;
+    border-bottom: 10px solid white;
+    border-right: 10px solid white;
+    border-left: none;
+    border-top: none;
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    margin: 40px;
+    padding: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
